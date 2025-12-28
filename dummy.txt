@@ -1,0 +1,5 @@
+Steps followed:
+1. fork the origin repository to your own repository.
+2. clone the forked repository on your local system. (git clone <fork url>)
+3. connect the local repository to the origin so as to check for any updates in the origin (git remote add upstream <origin url>)
+4.
